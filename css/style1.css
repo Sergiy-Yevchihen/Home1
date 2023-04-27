@@ -171,7 +171,7 @@ body {
 	text-align: center;
 	line-height: 300px;
 	color: #7cbbe8;
-  backface-visibility: hidden;
+  /* backface-visibility: hidden; */
    background-color: #7cbbe8;
 }
 
@@ -200,8 +200,13 @@ body {
 }
 
 .top {
-  background-color: #7cbbe8;
+  background-color: #98acbb;
 	transform: rotateX(90deg) translateZ(150px);
+}
+
+.top:hover {
+  background-color: #3f4347;
+  background-image: url('/imeg.img/search.png');
 }
 
 .bottom {
