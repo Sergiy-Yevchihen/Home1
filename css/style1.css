@@ -134,9 +134,6 @@ body {
     }
 }
 
-/* * {
-	
-} */
 
 .sekcion {
    background-color: rgb(160, 68, 118); 
@@ -328,6 +325,12 @@ body {
 
 .right {
   background-image: url('/imeg.img/3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:center ;
+}
+
+img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position:center ;
