@@ -185,17 +185,17 @@ body {
 
 
 .back {
-	background-color: #7cbbe8;
+	background-color: #4cc961;
   transform: rotateY(180deg) translateZ(150px);
 }
 
 .right {
-  background-color: #7cbbe8;
+  background-color: #7ac72e;
 	transform: rotateY(90deg) translateZ(150px);
 }
 
 .left {
-  background-color: #7cbbe8;
+  background-color: #cfba34;
 	transform: rotateY(-90deg) translateZ(150px);
 }
 
@@ -210,7 +210,7 @@ body {
 }
 /* ./imeg.img/search.png */
 .bottom {
-  background-color: #7cbbe8;
+  background-color: #e6a308;
 	transform: rotateX(-90deg) translateZ(150px);
 }
 /* бургер */
