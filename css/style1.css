@@ -208,7 +208,7 @@ body {
   background-color: #3f4347;
   background-image: url('/imeg.img/search.png');
 }
-
+/* ./imeg.img/search.png */
 .bottom {
   background-color: #7cbbe8;
 	transform: rotateX(-90deg) translateZ(150px);
@@ -312,7 +312,7 @@ body {
 } */
 
 .front {
-  background-image: url('/imeg.img/2.jpg');
+  background-image: url('./imeg.img/2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position:center ;
@@ -320,7 +320,7 @@ body {
 }
 
 .back {
-  background-image: url('/imeg.img/1.jpg');
+  background-image: url('./imeg.img/1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position:center ;
