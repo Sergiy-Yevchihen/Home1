@@ -8,7 +8,7 @@
 }
 .contaner{
     display: block;
-    background-image: url('/imeg.img/1560664221_1.jpg');  
+    background-image: url('./imeg.img/1560664221_1.jpg');  
     background: rgb(67, 220, 220);
     padding: 15px 30px;
 }
