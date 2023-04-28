@@ -139,7 +139,7 @@ body {
 } */
 
 .sekcion {
-  background-color: rgb(160, 68, 118); 
+   background-color: rgb(160, 68, 118); 
    overflow: hidden; 
    padding-top: 150px;
    box-sizing: border-box;
@@ -165,21 +165,21 @@ body {
 	position: absolute;
 	width: inherit;
 	height: inherit;
-	border: 1px solid  #7cbbe8;;
+	border: 1px solid  #ecf5fb;;
   
 	font: normal 70px Arial;
 	text-align: center;
 	line-height: 300px;
-	color: #7cbbe8;
+	color: #4a5258;
   /* backface-visibility: hidden; */
-   background-color: #7cbbe8;
+   background-color: #a3552b;
 }
 
 .front {
   display: flex;
   align-items: center;
 	transform: translateZ(150px);
-   background-color: #0d1d28;
+  background-color: #0d1d28;
   
 }
 
